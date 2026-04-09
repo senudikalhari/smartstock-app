@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735375195422",
+    "project_id": "smartstock-43839",
+    "storage_bucket": "smartstock-43839.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735375195422:android:9e4c048be4b1fbf8069d0f",
+        "android_client_info": {
+          "package_name": "com.example.smartstock_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeP6po6QWSX88hKvuTX-LIZPCsPZQYpCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
